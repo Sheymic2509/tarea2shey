@@ -1,0 +1,121 @@
+*{ margin: 0px;}
+.soma
+{
+    background-color: mediumaquamarine;
+    width:300px;
+    height:100px; 
+    position: relative;
+    top: 20px;
+    left: 600px;
+}
+.somab
+{
+    background-color: mediumaquamarine;
+    width:600px;
+    height:100px;
+    border-radius: 80px ; 
+    position: relative;
+    top: 10px;
+    left:450px;
+}
+.cara
+{
+    background-color:palevioletred;
+    width:400px;
+    height:400px;
+    border-radius: 100% ; 
+    position: relative;
+    top: 10px;
+    left:550px;
+}
+.ojoi
+{
+    background-color: white;
+    width:80px;
+    height:80px;
+    border-radius: 100% ; 
+    position: absolute;
+    top: 100px;
+    left:100px;
+}
+.pup1
+{
+    background-color: black;
+    width:30px;
+    height:30px;
+    border-radius: 100% ; 
+    position: absolute;
+    top: 25px;
+    left:30px;
+}
+.ojod
+{
+    background-color: white ;
+    width:80px;
+    height:80px;
+    border-radius: 100% ; 
+    position: absolute;
+    top: 100px;
+    left:250px;
+}
+.pup2
+{
+    background-color: black;
+    width:30px;
+    height:30px;
+    border-radius: 100% ; 
+    position: absolute;
+    top: 25px;
+    left:30px;
+}
+.boca1
+{
+    background-color: red;
+    width:250px;
+    height:80px;
+    border-radius: 100% ; 
+    position: relative;
+    top: 260px;
+    left:80px;
+}
+.boca2
+{
+    background-color: black;
+    width:140px;
+    height:40px;
+    border-radius: 100% ; 
+    position: relative;
+    top: 200px;
+    left:140px;
+}
+.ci
+{
+    background-color:blueviolet;
+    width:140px;
+    height:70px;
+    border-radius: 100% ; 
+    position: relative;
+    top: -20px;
+    left:780px;
+}
+
+.cc
+{
+    background-color: blueviolet;
+    width:100px;
+    height:100px;
+    border-radius: 100% ; 
+    position: relative;
+    top: -90px;
+    left:700px;
+}
+.cd
+{
+    background-color:blueviolet;
+    width:140px;
+    height:70px;
+    border-radius: 100% ; 
+    position: relative;
+    top: -190px;
+    left:600px;
+}
